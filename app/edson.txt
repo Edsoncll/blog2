@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ALE PECHAN 2222
 2
+=======
+alejandro
+>>>>>>> 8df6d4192c97b730ad700275b469bcaaceeb6b0e

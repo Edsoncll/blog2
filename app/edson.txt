@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 alejandro
+=======
+<<<<<<< HEAD
+ALE PECHAN 2222
+2
+=======
+alejandro
+>>>>>>> 8df6d4192c97b730ad700275b469bcaaceeb6b0e
+>>>>>>> 2ae9fafb8f05a55b0ab0bb9615b55674055b390a
